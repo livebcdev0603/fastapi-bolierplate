@@ -167,9 +167,6 @@ If you want to make your own permission, inherit `BasePermission` and implement 
 
 **Note. In order to use swagger's authorize function, you must put `PermissionDependency` as an argument of `dependencies`.**
 
-## Event dispatcher
-
-Refer the README of https://github.com/teamhide/fastapi-event
 
 ## Cache
 
